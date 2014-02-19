@@ -1,0 +1,4 @@
+#not including keystore and merge
+
+keystore/
+merges/
