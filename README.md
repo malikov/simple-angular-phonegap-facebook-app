@@ -1,4 +1,4 @@
-# A very simple app
+# A very simple app with the facebook sdk
 
 Simple app made using angular,phonegap, [onsenUI](http://onsenui.io/).
 
